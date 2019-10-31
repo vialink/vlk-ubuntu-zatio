@@ -1,4 +1,4 @@
-FROM vlk-ubuntu
+FROM vialink/vlk-ubuntu
 ARG DEBIAN_FRONTEND=noninteractive
 
 LABEL version="1.0"
