@@ -1,4 +1,4 @@
-FROM vlk-ubuntu:18.04
+FROM vlk-ubuntu
 ARG DEBIAN_FRONTEND=noninteractive
 
 LABEL version="1.0"
